@@ -11,6 +11,7 @@ public class Main {
 		Friend friend3 = new Friend("Squiddy");
 		
 		Friend.displayFriends();
+		
 	}
 
 }
